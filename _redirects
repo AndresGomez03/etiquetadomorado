@@ -1,0 +1,5 @@
+# Redirecciones de Cloudflare Pages (https://developers.cloudflare.com/pages/configuration/redirects/)
+
+# La calculadora de sellos se eliminó; se redirige a la guía de la ley
+/calculadora-sellos/  /ley-de-etiquetado/  301
+/calculadora-sellos   /ley-de-etiquetado/  301

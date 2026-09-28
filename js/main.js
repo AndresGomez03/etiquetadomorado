@@ -215,7 +215,4 @@
     }
     btnGracias.href = linkWsp(msg);
   }
-
-  // Exponer para otros scripts (calculadora)
-  window.EM = { linkWsp: linkWsp };
 })();
