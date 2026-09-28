@@ -1,0 +1,6 @@
+# Herramientas locales (no se publican)
+.claude/
+dist/
+Thumbs.db
+desktop.ini
+.DS_Store

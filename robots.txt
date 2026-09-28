@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /gracias/
+
+Sitemap: https://www.etiquetadomorado.cl/sitemap.xml

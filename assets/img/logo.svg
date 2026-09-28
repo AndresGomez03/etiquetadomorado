@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t">
+  <title id="t">Etiquetado Morado</title>
+  <!-- TODO: reemplazar por el logo original de la clienta (SVG o PNG) -->
+  <circle cx="60" cy="60" r="57" fill="#fff" stroke="#8e1f7a" stroke-width="6"/>
+  <circle cx="60" cy="54" r="30" fill="#f1e0f6" stroke="#8e1f7a" stroke-width="7"/>
+  <line x1="81" y1="76" x2="99" y2="96" stroke="#8e1f7a" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#8e1f7a">
+    <rect x="45" y="40" width="30" height="4" rx="2"/>
+    <rect x="45" y="49" width="22" height="4" rx="2"/>
+    <rect x="45" y="58" width="27" height="4" rx="2"/>
+    <rect x="45" y="67" width="17" height="4" rx="2"/>
+  </g>
+  <circle cx="36" cy="95" r="6" fill="#9db59a"/>
+</svg>

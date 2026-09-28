@@ -1,0 +1,30 @@
+# Headers de Cloudflare Pages (https://developers.cloudflare.com/pages/configuration/headers/)
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Imágenes: 1 semana (los archivos no llevan hash en el nombre; si cambias
+# el logo u otra imagen, los visitantes lo verán a más tardar en 7 días)
+/assets/*
+  Cache-Control: public, max-age=604800
+
+# CSS y JS: 1 hora, para que los cambios se vean rápido
+/css/*
+  Cache-Control: public, max-age=3600
+
+/js/*
+  Cache-Control: public, max-age=3600
+
+# Páginas que no deben aparecer en Google
+/gracias/*
+  X-Robots-Tag: noindex
+
+/README.md
+  X-Robots-Tag: noindex
+
+# Evita que Google indexe la URL *.pages.dev (contenido duplicado del dominio real)
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex

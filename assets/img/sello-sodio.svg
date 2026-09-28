@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Sello ALTO EN SODIO ">
+  <polygon points="29.3,0 70.7,0 100,29.3 100,70.7 70.7,100 29.3,100 0,70.7 0,29.3" fill="#fff"/>
+  <polygon points="30.5,3 69.5,3 97,30.5 97,69.5 69.5,97 30.5,97 3,69.5 3,30.5" fill="#111"/>
+  <polygon points="31.7,6 68.3,6 94,31.7 94,68.3 68.3,94 31.7,94 6,68.3 6,31.7" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="50" y="36" font-size="15">ALTO EN</text>
+    <text x="50" y="62" font-size="12.5">SODIO</text>
+    <text x="50" y="84" font-size="5.2" font-weight="400">Ministerio de Salud</text>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Foto de Dania (placeholder)">
+  <!-- TODO: reemplazar por foto real -->
+  <rect width="600" height="600" fill="#d9a6e8"/>
+  <circle cx="300" cy="240" r="110" fill="#8e1f7a" opacity=".85"/>
+  <path d="M110 600c20-140 100-210 190-210s170 70 190 210Z" fill="#8e1f7a" opacity=".85"/>
+  <text x="300" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#fff">Foto de Dania</text>
+</svg>
